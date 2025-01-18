@@ -58,7 +58,7 @@ With the **100,000 characters included** in the Creator Plan, you have plenty of
 ### Proof  
 Here’s a screenshot of my earnings this month:  
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="y7DXHQG"><a href="https://imgur.com/y7DXHQG">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> 
+![Imgur](https://imgur.com/y7DXHQG)
 
 This isn’t just passive income—it’s also a tool for creating high-quality content. I’ve used my credits this month to create videos, audiobooks, and other projects while earning $200 passively.  
 
