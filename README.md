@@ -11,13 +11,19 @@ This month, I earned **$200 in fully passive income** using Eleven Labs, and I w
 ### 1. Create an Account  
 Sign up for an account on the [Eleven Labs website](https://try.elevenlabs.io/3rajzr8mfck9) For monetization, you’ll need the **Creator Plan**, which costs $22. However, with a **50% discount link** ([Sign up now](https://try.elevenlabs.io/3rajzr8mfck9)), the cost drops to $11.  
 
-After purchasing the Creator Plan, navigate to the **"Voices" menu**.  
+After purchasing the Creator Plan, navigate to the **"Voices" menu**.
+
 [![image.png](https://i.postimg.cc/pLK2pTN0/image.png)](https://postimg.cc/mP2xnTgM)
-1. Click **"Add a new voice"**.
+
+Click **"Add a new voice"**.
+
 [![image.png](https://i.postimg.cc/pLK2pTN0/image.png)](https://postimg.cc/mP2xnTgM)
-2. Select **"Professional Voice Clone"**.
+
+Select **"Professional Voice Clone"**.
+
 [![image.png](https://i.postimg.cc/y65Bj9sQ/image.png)](https://postimg.cc/NL1WfKym)
-4. Upload a high-quality audio sample (minimum 30 minutes; 3 hours recommended for best results).  
+
+Upload a high-quality audio sample (minimum 30 minutes; 3 hours recommended for best results).  
 
 > **Pro Tip**: Ensure the audio is clear and free of background noise. I used my studio for this, but a friend of mine used an iPhone mic, reading 30 minutes a day from a self-awareness book over three days.  
 
