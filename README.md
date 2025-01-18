@@ -36,12 +36,14 @@ This step is often overlooked in other guides. After creating your voice clone:
 2. Once verified, your voice will appear in your **Voice Library** under the "Voices" menu.  
 3. Click **"View"** on your voice to open its dashboard.  
 4. Scroll down and click the **red button** labeled for sharing and discovery.
+
  [![image.png](https://i.postimg.cc/50D4XFtR/image.png)](https://postimg.cc/MMb24HV7)
   
-
 On the next page:  
 - Enable **"Shared Voice"** and **"Discovery in Voice Library"**.
+
 [![image.png](https://i.postimg.cc/t49XnbXp/image.png)](https://postimg.cc/dLSMgzkx)
+
 - Wait 1–2 days for approval.  
 
 Once approved, you’ll earn money whenever your voice is used.  
