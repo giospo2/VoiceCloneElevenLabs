@@ -58,7 +58,7 @@ With the **100,000 characters included** in the Creator Plan, you have plenty of
 ### Proof  
 Here’s a screenshot of my earnings this month:  
 
-![Proof of Earnings](https://ibb.co/xJBW1Yr))  
+![My Proof of Earnings](https://i.ibb.co/xJBW1Yr/sample.jpg)  
 
 This isn’t just passive income—it’s also a tool for creating high-quality content. I’ve used my credits this month to create videos, audiobooks, and other projects while earning $200 passively.  
 
