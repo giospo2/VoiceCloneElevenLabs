@@ -17,7 +17,7 @@ After purchasing the Creator Plan, navigate to the **"Voices" menu**.
 
 Click **"Add a new voice"**.
 
-[![image.png](https://i.postimg.cc/pLK2pTN0/image.png)](https://postimg.cc/mP2xnTgM)
+[![image.png](https://i.postimg.cc/Fs7b5ttF/image.png)](https://postimg.cc/9rHwZnFs)
 
 Select **"Professional Voice Clone"**.
 
